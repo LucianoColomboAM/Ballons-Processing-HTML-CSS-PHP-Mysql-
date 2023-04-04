@@ -15,3 +15,6 @@ El proyecto consto de 6 pasos:
 
 Si quieren pruebas de como funciono aqui esta el link: https://youtu.be/nbAkta2DEIc
 Debido a que lo hice en visperas al mundial de futbol pedi que los mensajes fueran de apoyo a la Seleccion Argentina y estos fueron proyectados sobre videos de los momentos historicos de ella. :) 
+
+
+El archivo llamado pagina de proyecto que es un .zip es un proyecto en HTML, CSS, PHP y MYSQL que lleva mensajes de los usuarios a una base de datos que luego es descargable en .JSON. 
